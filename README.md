@@ -1,5 +1,7 @@
 Install pdftron/pdfnet-node
-npm 9 @pdftron/pdfnet-node
+
+`npm i @pdftron/pdfnet-node`
 
 Start Script
-node index.js
+
+`node index.js`
